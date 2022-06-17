@@ -1,0 +1,37 @@
+﻿  imageloader.cpp
+  main.cpp
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(25,37): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(27,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(28,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(29,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(30,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(31,40): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(32,40): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(33,38): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(117,31): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(130,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(130,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(152,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(152,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(174,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(174,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(196,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(196,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(218,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(218,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(227,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(240,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(240,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(249,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(262,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(262,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(272,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(285,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(285,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(294,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(307,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(307,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(329,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\main.cpp(329,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+  Gerando Código...
+  SolarSystem.vcxproj -> C:\Users\josel\OneDrive\Área de Trabalho\testes\sistemasolar\Debug\SolarSystem.exe
